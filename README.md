@@ -1,5 +1,5 @@
-# ENTER YOUR NAME : Kavi M S
-# ENTER YOUR REGISTER NO : 212223220044
+# ENTER YOUR NAME : SIVAKUMAR R
+# ENTER YOUR REGISTER NO : 212223230209
 # EX.NO : 3
 # Implementation of MLP for a non-linearly separable data
 ## Aim:
